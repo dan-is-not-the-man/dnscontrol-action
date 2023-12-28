@@ -1,10 +1,10 @@
 ---
-name: DNSControl Action
+name: DNSControl Action Alpine
 description: Deploy your DNS configuration to multiple providers
-author: Koen Rouwhorst <info@koenrouwhorst.nl>
+author: dan <github-action.h9wkl@slmail.me>
 branding:
   icon: globe
-  color: bllue
+  color: blue
 inputs:
   args:
     description: DNSControl command
